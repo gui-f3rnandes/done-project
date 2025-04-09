@@ -10,12 +10,11 @@
     "preview": "vite preview",
     "prepare": "husky"
   },
-
   "dependencies": {
+    "express": "^5.1.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },
-  
   "devDependencies": {
     "@babel/core": "^7.26.10",
     "@babel/eslint-parser": "^7.27.0",
